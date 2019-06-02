@@ -87,16 +87,17 @@
         <form> 
             <input type="text" name="keyword" placeholder="keyword" value="<?=$_GET['keyword']?>"/>
             <input type="radio" name="lhorizontal" name="layout" value="horizontal">
-            <label for="Horizontal"></label><label for="lhorizontal">Horizontal</label>
+<!--             <label for="Horizontal"></label><label for="lhorizontal">Horizontal</label>
             <input type="radio" id = "lvertical" name="layout" value="vertical">
-            <label for="Vertical"></label><label for="lvertical">Vertical</label>
-            <select name="category">
+            <label for="Vertical"></label><label for="lvertical">Vertical</label> -->
+            
+<!--             <select name="category">
                 <option value=" ">Select One</option>
                 <option value="ocean">Sea</option>
                 <option>Forest</option>
                 <option>Mountain</option>
                 <option>Snow</option>
-            </select>
+            </select> -->
             <input type="submit" value="Search"/>
         </form>           
         <br/> <br/>
