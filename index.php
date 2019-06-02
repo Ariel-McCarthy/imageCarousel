@@ -86,8 +86,8 @@
         <br>
         <form> 
             <input type="text" name="keyword" placeholder="keyword" value="<?=$_GET['keyword']?>"/>
-            <input type="radio" name="lhorizontal" name="layout" value="horizontal">
-<!--             <label for="Horizontal"></label><label for="lhorizontal">Horizontal</label>
+<!--            <input type="radio" name="lhorizontal" name="layout" value="horizontal">
+             <label for="Horizontal"></label><label for="lhorizontal">Horizontal</label>
             <input type="radio" id = "lvertical" name="layout" value="vertical">
             <label for="Vertical"></label><label for="lvertical">Vertical</label> -->
             
